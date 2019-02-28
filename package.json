@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"shorten": "netlify-shortener"
 	},
-	"baseUrl": "https://www.prestonlamb.com",
+	"baseUrl": "https://www.pjlc.dev",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/pjlamb12/pjlc.dev.git"
