@@ -1,20 +1,24 @@
 {
-  "name": "pjlc.dev",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pjlamb12/pjlc.dev.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pjlamb12/pjlc.dev/issues"
-  },
-  "homepage": "https://github.com/pjlamb12/pjlc.dev#readme"
+	"name": "pjlc.dev",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"shorten": "netlify-shortener"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pjlamb12/pjlc.dev.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pjlamb12/pjlc.dev/issues"
+	},
+	"homepage": "https://github.com/pjlamb12/pjlc.dev#readme",
+	"devDependencies": {
+		"netlify-shortener": "^1.0.3"
+	}
 }
