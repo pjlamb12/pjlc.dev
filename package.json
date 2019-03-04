@@ -20,6 +20,6 @@
 	},
 	"homepage": "https://github.com/pjlamb12/pjlc.dev#readme",
 	"devDependencies": {
-		"netlify-shortener": "^1.0.3"
+		"netlify-shortener": "^1.0.4"
 	}
 }
