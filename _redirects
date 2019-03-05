@@ -1,5 +1,6 @@
-/headshot   https://www.prestonlamb.com/static/images/headshot.png
-/tags       https://www.prestonlamb.com/tags
-/me         https://www.prestonlamb.com/about
-/blog       https://www.prestonlamb.com/blog
-/           https://www.prestonlamb.com
+/runtime-config   https://www.prestonlamb.com/blog/loading-app-config-in-app-initializer
+/headshot         https://www.prestonlamb.com/static/images/headshot.png
+/tags             https://www.prestonlamb.com/tags
+/me               https://www.prestonlamb.com/about
+/blog             https://www.prestonlamb.com/blog
+/                 https://www.prestonlamb.com
