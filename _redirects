@@ -1,20 +1,15 @@
-/subscribe                           https://landing.mailerlite.com/webforms/landing/w1z6h2
+# Blog Posts
 /template-refs                       https://www.prestonlamb.com/blog/angular-template-refs
-/nghouston/ngx-plug-n-play           https://docs.google.com/presentation/d/13wqlV4NJ3IyqpScsz5JBxhNgc9kS2T3tE_fqIYN-060/edit?usp=sharing
-/ngweber/docker-github-actions       https://docs.google.com/presentation/d/1nGQXKNkidHpuxrmN0otZmIjh7oxPwBMa8HOyeKpZirw/edit?usp=sharing
-/ngweber/jamstack-netlify            https://docs.google.com/presentation/d/1Jx-G72TS9GwaqSVcLF2mjcGSkCj-CWO3Gkxk6Jg42Dk/edit?usp=sharing
-/ngconf-writers                      https://docs.google.com/presentation/d/1RezKzn4D6GuIOAKu3zHso4IZtdwTbVmhEZFwUJmUcWg/edit?usp=sharing
 /pwas-pt2                            https://www.prestonlamb.com/blog/getting-started-with-angular-pwas-part-2
 /pwas-pt1                            https://www.prestonlamb.com/blog/getting-started-with-angular-pwas-part-1
 /github-actions-docker               https://www.prestonlamb.com//blog/creating-a-docker-image-with-github-actions
-/ngweber/pwas                        https://docs.google.com/presentation/d/10hipba2mAjweJR56ioefAkUM9Trai1SfV5GVnInTUV0/edit?usp=sharing
-/ngweber/error-handling              https://docs.google.com/presentation/d/1RtSXl2vkGXwtypenQw0Mp1x5IycR1q0IbpLOq2bQ1WA/edit?usp=sharing
 /http-interceptors                   https://www.prestonlamb.com/blog/angular-error-interceptors
 /global-errors                       https://www.prestonlamb.com/blog/angular-global-error-handling
-/newsletter                          https://www.prestonlamb.com/newsletter-signup
 /slides/runtime-config               https://docs.google.com/presentation/d/11u_6ZX57tH71OLcEtpnBxwuiNNqrofqRyO7BYELfl94/edit?usp=sharing
 /slides/hs2021                       https://docs.google.com/presentation/d/1QyIioPj95ko8EI8NrSJYsh0NRpSKFgcHN6QSRj6ZYuM/edit?usp=sharing
 /runtime-config                      https://www.prestonlamb.com/blog/loading-app-config-in-app-initializer
+
+# Headshots
 /headshot                            https://www.prestonlamb.com/assets/images/headshots/headshot.png
 /headshot-square                     https://www.prestonlamb.com/assets/images/headshots/square-headshot.png
 /headshot-circle                     https://www.prestonlamb.com/assets/images/headshots/circle-headshot.png
@@ -27,14 +22,26 @@
 /headshot-gray-half-res              https://www.prestonlamb.com/assets/images/headshots/gray-headshot-half-res.png
 /headshot-gray-square-half-res       https://www.prestonlamb.com/assets/images/headshots/gray-square-headshot-half-res.png
 /headshot-gray-circle-half-res       https://www.prestonlamb.com/assets/images/headshots/gray-circle-headshot-half-res.png
+
+# My Site
 /tags                                https://www.prestonlamb.com/tags
 /me                                  https://www.prestonlamb.com/about
 /blog                                https://www.prestonlamb.com/blog
-/function-deploy-preview             https://5e9a9eba2b7f1e0006d581dd--preston-lamb-consulting.netlify.app/blog/javascript-functions
-/                                    https://www.prestonlamb.com
-/church/job-fair                     https://docs.google.com/forms/d/e/1FAIpQLSfqF7kOdo12gcH6z2LkDvhL7tmJREhhTxWnITHFOXOLseaVzQ/viewform?usp=sf_link
+
+# Thinkster
 /thinkster/deploy                    https://thinkster.io/tutorials/deploying-apps-to-netlify
 /thinkster/ng-cli                    https://thinkster.io/tutorials/angular-cli-basics-introduction
-/deno                                https://landing.mailerlite.com/webforms/landing/c4e6f9
-/tw-pen                              https://codepen.io/chris__sev/pen/VweoBXW
+
+# MailerLite
+/newsletter                          https://www.prestonlamb.com/newsletter-signup
+/subscribe                           https://landing.mailerlite.com/webforms/landing/w1z6h2
+
+# Conferences
 /ngconf-2022                         https://medium.com/ngconf/run-code-when-you-leave-your-angular-app-d4ef30472d20
+
+# Referrals
+/ref/lumina                         http://lumina.refr.cc/prestonl
+
+# Fallback
+/                                    https://www.prestonlamb.com
+/*                                   https://www.prestonlamb.com
