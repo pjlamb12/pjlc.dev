@@ -51,7 +51,8 @@
 
 # ng-conf 2023 Forms Workshop
 /ng-conf-2023/forms-starter         https://stackblitz.com/fork/ngconf-true-to-form?file=src%2Fapp%2Fapp.component.ts
-/ng-conf-2023/stackblitzes          https://stackblitz.com/@pjlamb12/collections/true-to-form-a-guide-to-reactive-forms     
+/ng-conf-2023/stackblitzes          https://stackblitz.com/@pjlamb12/collections/true-to-form-a-guide-to-reactive-forms
+/ng-conf-2023/starter               https://stackblitz.com/fork/ngconf-true-to-form
 
 # Fallback
 /                                    https://www.prestonlamb.com
